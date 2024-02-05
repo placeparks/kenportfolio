@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+/* Default light theme */
+:root {
+  --shadow-color: rgba(0, 0, 0, 0.2);
+}
+
+/* Dark theme */
+[data-theme="dark"] {
+  --shadow-color: rgba(211, 202, 202, 0.4); 
+}
+
+
+.custom-shadow {
+  box-shadow: 0 4px 8px 0 var(--shadow-color), 0 6px 20px 0 var(--shadow-color);
+}
+
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
