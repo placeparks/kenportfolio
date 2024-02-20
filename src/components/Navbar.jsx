@@ -12,7 +12,7 @@ import { NavLink as RouterNavLink } from 'react-router-dom';
 const Links = [
   { name: 'Home', to: '/', isExternal: false },
   { name: 'About', to: 'about', isExternal: false },
-  { name: 'Webdites', to: 'services', isExternal: false },
+  { name: 'Websites', to: 'services', isExternal: false },
   { name: 'MERN', to: 'mern', isExternal: false },
 ];
 
