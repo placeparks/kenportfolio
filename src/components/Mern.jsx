@@ -30,7 +30,7 @@ function Mern() {
                     <img src={realestate} className="card-img-top" alt="Real Estate" />
                     <div className="card-body">
                       <h5 className="card-title">Real Estate</h5>
-                      <a href="https://real-estate-frontend-sigma.vercel.app/" className="btn btn-primary">
+                      <a href="https://real-estate-frontend-sigma.vercel.app/" target="blank" rel="norefferer"  className="btn btn-primary">
                         Visit Page
                       </a>
                 
@@ -45,7 +45,8 @@ function Mern() {
               <div className="card-body">
                 <h5 className="card-title">Ecommerce Store</h5>
                 <a
-                  href="https://ecommerce-nine-alpha.vercel.app/"
+                        href="https://ecommerce-nine-alpha.vercel.app/"
+                        target="blank" rel="norefferer"
                   className="btn btn-primary"
                 >
                   Visit Page
@@ -61,7 +62,8 @@ function Mern() {
               <div className="card-body">
                 <h5 className="card-title">My INotebook</h5>
                 <a
-                  href="https://inotebook-seven-mocha.vercel.app/login"
+                        href="https://inotebook-seven-mocha.vercel.app/login"
+                        target="blank" rel="norefferer"
                   className="btn btn-primary"
                 >
                   Visit Page
@@ -77,7 +79,8 @@ function Mern() {
               <div className="card-body">
                 <h5 className="card-title">Anime Website</h5>
                 <a
-                  href="https://anime-project-teal.vercel.app/"
+                        href="https://anime-project-teal.vercel.app/"
+                        target="blank" rel="norefferer"
                   className="btn btn-primary"
                 >
                   Visit Page
@@ -93,7 +96,8 @@ function Mern() {
               <div className="card-body">
                 <h5 className="card-title">My Blog</h5>
                 <a
-                  href="https://blog-placeparks.vercel.app/"
+                        href="https://blog-placeparks.vercel.app/"
+                        target="blank" rel="norefferer"
                   className="btn btn-primary"
                 >
                   Visit Page
@@ -109,7 +113,8 @@ function Mern() {
               <div className="card-body">
                 <h5 className="card-title">Interactive Periodic Table</h5>
                 <a
-                  href="https://dashboard-map-iota.vercel.app/"
+                        href="https://dashboard-map-iota.vercel.app/"
+                        target="blank" rel="norefferer"
                   className="btn btn-primary"
                 >
                   Visit Page
