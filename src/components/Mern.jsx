@@ -5,7 +5,7 @@ import book from "../assets/notebook.PNG";
 import store from "../assets/store.PNG";
 import blog from "../assets/blog.JPG";
 import map from "../assets/map.PNG";
-import sanitystore from "../assets/sanitystore.PNG";
+import sanitystore from "../assets/sanitystore.png";
 import { Tilt } from "react-tilt";
 import AOS from'aos';
 import 'aos/dist/aos.css';
