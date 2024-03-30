@@ -5,6 +5,7 @@ import book from "../assets/notebook.PNG";
 import store from "../assets/store.PNG";
 import blog from "../assets/blog.JPG";
 import map from "../assets/map.PNG";
+import sanitystore from "../assets/sanitystore.PNG";
 import { Tilt } from "react-tilt";
 import AOS from'aos';
 import 'aos/dist/aos.css';
@@ -114,6 +115,23 @@ function Mern() {
                 <h5 className="card-title">Interactive Periodic Table</h5>
                 <a
                         href="https://dashboard-map-iota.vercel.app/"
+                        target="blank" rel="norefferer"
+                  className="btn btn-primary"
+                >
+                  Visit Page
+                </a>
+              </div>
+            </div>
+          </Tilt>
+          </div>
+                  <div className="col" data-aos="fade-up" data-aos-duration="3000">
+          <Tilt options={{ max: 25 }}>
+            <div className="card h-100 custom-shadow">
+              <img src={sanitystore} className="card-img-top" alt="..." />
+              <div className="card-body">
+                <h5 className="card-title">Clothing Store</h5>
+                <a
+                        href="https://my-store-orzsje3b7-placeparks.vercel.app/"
                         target="blank" rel="norefferer"
                   className="btn btn-primary"
                 >
