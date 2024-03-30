@@ -131,7 +131,7 @@ function Mern() {
               <div className="card-body">
                 <h5 className="card-title">Clothing Store</h5>
                 <a
-                        href="https://my-store-orzsje3b7-placeparks.vercel.app/"
+                        href="https://my-store-beige.vercel.app/"
                         target="blank" rel="norefferer"
                   className="btn btn-primary"
                 >
